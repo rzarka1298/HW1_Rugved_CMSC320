@@ -5,3 +5,14 @@ Answer: Collaboration
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare — Predicting disease outbreaks, analyzing patient records for early diagnosis, drug discovery, and personalizing treatment plans based on patient data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches by creating a new merge commit that 
+        preserves both histories, while rebasing replays your commits on 
+        top of another branch to create a clean, linear history but rewrites 
+        commit hashes.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more about data science and how it can be applied to real-world problems.
